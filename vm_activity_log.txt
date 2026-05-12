@@ -1,0 +1,13 @@
+[2026-05-12 20:47:24] Hostname changed to InfraSecX
+[2026-05-12 20:47:53] IP address set to 172.16.200.8
+[2026-05-12 20:48:38] Attack succeeded: Penetration attempt
+[2026-05-12 20:48:45] Attack succeeded: Port scan detected
+[2026-05-12 20:49:10] Attack succeeded: Brute force login attempt
+[2026-05-12 20:49:46] Attack succeeded: Malware upload attempt on FTP
+[2026-05-12 20:49:51] Attack succeeded: DDoS on HTTP service
+[2026-05-12 20:55:04] ssh service stopped
+[2026-05-12 20:56:30] http service stopped
+[2026-05-12 20:56:56] ftp service stopped
+[2026-05-12 20:57:27] Firewall active
+[2026-05-12 20:57:59] http service started
+[2026-05-12 20:58:13] Quiz mode completed with score: 35
