@@ -1,0 +1,13 @@
+[2026-05-13 11:42:17] Hostname changed to Genesis5020
+[2026-05-13 11:47:49] Attack succeeded: Penetration attempt
+[2026-05-13 11:48:19] Attack succeeded: Port scan detected
+[2026-05-13 11:49:00] Attack succeeded: Brute force login attempt
+[2026-05-13 11:49:14] Attack succeeded: Malware upload attempt on FTP
+[2026-05-13 11:49:48] Attack succeeded: DDoS on HTTP service
+[2026-05-13 11:54:20] ssh service stopped
+[2026-05-13 11:59:16] ssh service stopped
+[2026-05-13 12:00:16] ssh service stopped
+[2026-05-13 12:01:55] ftp service stopped
+[2026-05-13 12:03:09] Firewall active
+[2026-05-13 12:05:31] http service started
+[2026-05-13 12:06:37] Quiz mode completed with score: 35
