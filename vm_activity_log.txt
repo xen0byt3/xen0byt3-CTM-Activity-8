@@ -1,0 +1,13 @@
+[2026-05-15 13:39:12] Hostname changed to cyberblueo1
+[2026-05-15 13:40:41] IP address set to 1.0.0.1
+[2026-05-15 13:43:52] Attack succeeded: Penetration attempt
+[2026-05-15 13:44:17] Attack succeeded: Port scan detected
+[2026-05-15 13:44:45] Attack succeeded: Brute force login attempt
+[2026-05-15 13:45:02] Attack succeeded: Malware upload attempt on FTP
+[2026-05-15 13:45:26] Attack succeeded: DDoS on HTTP service
+[2026-05-15 13:49:37] ssh service stopped
+[2026-05-15 13:51:27] http service stopped
+[2026-05-15 13:53:21] ftp service stopped
+[2026-05-15 13:54:33] Firewall active
+[2026-05-15 13:57:05] http service started
+[2026-05-15 13:59:10] Quiz mode completed with score: 35
