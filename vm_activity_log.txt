@@ -1,0 +1,13 @@
+[2026-05-23 16:10:53] Hostname changed to [Mardgee]
+[2026-05-23 16:13:55] Attack succeeded: Penetration attempt
+[2026-05-23 16:14:03] Attack succeeded: Port scan detected
+[2026-05-23 16:14:11] Attack succeeded: Brute force login attempt
+[2026-05-23 16:14:20] Attack succeeded: Malware upload attempt on FTP
+[2026-05-23 16:14:25] Attack succeeded: DDoS on HTTP service
+[2026-05-23 16:16:35] Quiz mode completed with score: 15
+[2026-05-23 16:18:38] Firewall active
+[2026-05-23 16:20:09] http service stopped
+[2026-05-23 16:20:37] ssh service stopped
+[2026-05-23 16:20:54] ftp service stopped
+[2026-05-23 16:22:09] http service started
+[2026-05-23 16:22:15] Quiz mode completed with score: 50
