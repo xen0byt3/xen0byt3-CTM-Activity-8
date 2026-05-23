@@ -1,0 +1,13 @@
+[2026-05-23 12:10:50] Hostname changed to mirage-hyung
+[2026-05-23 12:10:53] IP address set to 192.168.200.10
+[2026-05-23 12:10:56] Attack succeeded: Penetration attempt
+[2026-05-23 12:10:58] Attack succeeded: Port scan detected
+[2026-05-23 12:11:00] Attack succeeded: Brute force login attempt
+[2026-05-23 12:11:01] Attack succeeded: Malware upload attempt on FTP
+[2026-05-23 12:11:03] Attack succeeded: DDoS on HTTP service
+[2026-05-23 12:11:06] http service stopped
+[2026-05-23 12:11:10] ftp service stopped
+[2026-05-23 12:11:13] ssh service stopped
+[2026-05-23 12:11:16] Firewall active
+[2026-05-23 12:11:21] http service started
+[2026-05-23 12:11:43] Quiz mode completed with score: 35
