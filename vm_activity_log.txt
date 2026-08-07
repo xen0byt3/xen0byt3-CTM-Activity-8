@@ -1,0 +1,13 @@
+[2026-08-08 01:33:50] Hostname changed to xxoch1
+[2026-08-08 01:38:46] IP address set to 192.168.100.1
+[2026-08-08 01:41:33] Attack succeeded: Penetration attempt
+[2026-08-08 01:42:07] Attack succeeded: Port scan detected
+[2026-08-08 01:42:14] Attack succeeded: Brute force login attempt
+[2026-08-08 01:42:21] Attack succeeded: Malware upload attempt on FTP
+[2026-08-08 01:42:29] Attack succeeded: DDoS on HTTP service
+[2026-08-08 01:46:10] ssh service stopped
+[2026-08-08 01:47:22] http service stopped
+[2026-08-08 01:48:23] ftp service stopped
+[2026-08-08 01:49:24] Firewall active
+[2026-08-08 01:50:51] http service started
+[2026-08-08 01:52:00] Quiz mode completed with score: 35
