@@ -1,0 +1,13 @@
+[2026-08-07 23:04:28] Hostname changed to sugaabyte
+[2026-08-07 23:04:53] IP address set to 10.0.0.1
+[2026-08-07 23:06:28] Attack succeeded: Penetration attempt
+[2026-08-07 23:06:35] Attack succeeded: Port scan detected
+[2026-08-07 23:06:46] Attack succeeded: Brute force login attempt
+[2026-08-07 23:07:04] Attack succeeded: Malware upload attempt on FTP
+[2026-08-07 23:07:11] Attack succeeded: DDoS on HTTP service
+[2026-08-07 23:09:11] ssh service stopped
+[2026-08-07 23:12:54] http service stopped
+[2026-08-07 23:14:17] ftp service stopped
+[2026-08-07 23:14:46] Firewall active
+[2026-08-07 23:15:24] http service started
+[2026-08-07 23:15:44] Quiz mode completed with score: 35
