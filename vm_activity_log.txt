@@ -1,0 +1,13 @@
+[2026-08-08 10:56:37] Hostname changed to Syntaxbooth
+[2026-08-08 10:57:25] IP address set to 192.168.1.100
+[2026-08-08 11:05:50] Attack succeeded: Penetration attempt
+[2026-08-08 11:05:59] Attack succeeded: Port scan detected
+[2026-08-08 11:06:07] Attack succeeded: Brute force login attempt
+[2026-08-08 11:06:16] Attack succeeded: Malware upload attempt on FTP
+[2026-08-08 11:06:22] Attack succeeded: DDoS on HTTP service
+[2026-08-08 11:07:48] ssh service stopped
+[2026-08-08 11:08:52] http service stopped
+[2026-08-08 11:09:07] ftp service stopped
+[2026-08-08 11:09:23] Firewall active
+[2026-08-08 11:10:27] http service started
+[2026-08-08 11:10:46] Quiz mode completed with score: 35
