@@ -1,0 +1,12 @@
+[2026-08-08 10:59:21] Hostname changed to kronosCypher
+[2026-08-08 11:00:42] Attack succeeded: Penetration attempt
+[2026-08-08 11:00:49] Attack succeeded: Port scan detected
+[2026-08-08 11:01:00] Attack succeeded: Brute force login attempt
+[2026-08-08 11:01:09] Attack succeeded: Malware upload attempt on FTP
+[2026-08-08 11:01:16] Attack succeeded: DDoS on HTTP service
+[2026-08-08 11:01:41] ssh service stopped
+[2026-08-08 11:01:48] http service stopped
+[2026-08-08 11:01:53] ftp service stopped
+[2026-08-08 11:02:32] Firewall active
+[2026-08-08 11:03:25] http service started
+[2026-08-08 11:03:31] Quiz mode completed with score: 35
