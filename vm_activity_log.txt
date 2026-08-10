@@ -1,0 +1,14 @@
+[2026-08-10 12:26:49] Hostname changed to target-vm
+[2026-08-10 12:28:48] IP address set to 192.168.1.100
+[2026-08-10 12:32:17] Attack succeeded: Penetration attempt
+[2026-08-10 12:33:05] Attack succeeded: Port scan detected
+[2026-08-10 12:34:38] Attack succeeded: Brute force login attempt
+[2026-08-10 12:35:14] Attack succeeded: Malware upload attempt on FTP
+[2026-08-10 12:36:10] Attack succeeded: DDoS on HTTP service
+[2026-08-10 12:39:34] http service stopped
+[2026-08-10 12:40:37] ssh service stopped
+[2026-08-10 12:42:06] ftp service stopped
+[2026-08-10 15:03:25] Firewall active
+[2026-08-10 15:04:57] http service started
+[2026-08-10 15:17:28] Hostname changed to target-vm
+[2026-08-10 15:18:36] Quiz mode completed with score: 35
