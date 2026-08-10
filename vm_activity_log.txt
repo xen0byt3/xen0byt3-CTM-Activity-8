@@ -1,0 +1,21 @@
+[2026-08-10 10:05:10] Hostname changed to BullSpy
+[2026-08-10 10:05:19] IP address set to 127.0.0.1
+[2026-08-10 10:06:12] Attack succeeded: Penetration attempt
+[2026-08-10 10:06:16] Attack succeeded: Port scan detected
+[2026-08-10 10:06:20] Attack succeeded: Brute force login attempt
+[2026-08-10 10:06:24] Attack succeeded: Malware upload attempt on FTP
+[2026-08-10 10:06:30] Attack succeeded: DDoS on HTTP service
+[2026-08-10 10:07:15] ssh service stopped
+[2026-08-10 10:07:38] http service stopped
+[2026-08-10 10:08:28] ftp service stopped
+[2026-08-10 10:08:58] Firewall active
+[2026-08-10 10:10:36] Quiz mode completed with score: 30
+[2026-08-10 10:11:54] ssh service stopped
+[2026-08-10 10:12:13] http service stopped
+[2026-08-10 10:12:35] ftp service stopped
+[2026-08-10 10:12:52] Quiz mode completed with score: 60
+[2026-08-10 10:13:54] ftp service stopped
+[2026-08-10 10:14:07] Firewall active
+[2026-08-10 10:14:26] Hostname changed to default
+[2026-08-10 10:14:49] http service started
+[2026-08-10 10:14:51] Quiz mode completed with score: 95
