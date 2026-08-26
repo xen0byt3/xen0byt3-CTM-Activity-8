@@ -1,0 +1,21 @@
+[2026-08-26 17:37:23] Hostname changed to kyberhysteria
+[2026-08-26 17:37:51] IP address set to 192.168.1.2
+[2026-08-26 17:41:12] Firewall active
+[2026-08-26 17:41:56] Firewall blocked: Penetration attempt
+[2026-08-26 17:42:03] Firewall blocked: Port scan detected
+[2026-08-26 17:42:12] Firewall blocked: Brute force login attempt
+[2026-08-26 17:42:25] Firewall blocked: Brute force login attempt
+[2026-08-26 17:42:44] Firewall blocked: Malware upload attempt on FTP
+[2026-08-26 17:42:58] Firewall blocked: DDoS on HTTP service
+[2026-08-26 17:44:13] Firewall inactive
+[2026-08-26 17:44:18] Attack succeeded: Penetration attempt
+[2026-08-26 17:44:24] Attack succeeded: Port scan detected
+[2026-08-26 17:44:32] Attack succeeded: Brute force login attempt
+[2026-08-26 17:44:37] Attack succeeded: Malware upload attempt on FTP
+[2026-08-26 17:44:42] Attack succeeded: DDoS on HTTP service
+[2026-08-26 17:48:11] ssh service stopped
+[2026-08-26 17:48:43] http service stopped
+[2026-08-26 17:49:26] ftp service stopped
+[2026-08-26 17:49:54] Firewall active
+[2026-08-26 17:50:11] http service started
+[2026-08-26 17:51:11] Quiz mode completed with score: 35
