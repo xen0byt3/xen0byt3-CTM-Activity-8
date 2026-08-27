@@ -1,0 +1,13 @@
+[2026-08-27 22:27:55] Hostname changed to DESKTOP1
+[2026-08-27 22:28:11] IP address set to 192.168.1.1
+[2026-08-27 22:30:03] Attack succeeded: Penetration attempt
+[2026-08-27 22:30:10] Attack succeeded: Port scan detected
+[2026-08-27 22:30:21] Attack succeeded: Brute force login attempt
+[2026-08-27 22:30:29] Attack succeeded: Malware upload attempt on FTP
+[2026-08-27 22:30:40] Attack succeeded: DDoS on HTTP service
+[2026-08-27 22:31:32] ssh service stopped
+[2026-08-27 22:32:16] http service stopped
+[2026-08-27 22:32:36] ftp service stopped
+[2026-08-27 22:32:59] Firewall active
+[2026-08-27 22:33:50] http service started
+[2026-08-27 22:34:08] Quiz mode completed with score: 35
