@@ -1,0 +1,13 @@
+[2026-08-28 17:44:19] Hostname changed to MCM-32
+[2026-08-28 17:45:50] IP address set to 192.168.1.100
+[2026-08-28 17:47:51] Attack succeeded: Penetration attempt
+[2026-08-28 17:56:41] Attack succeeded: Port scan detected
+[2026-08-28 17:56:49] Attack succeeded: Brute force login attempt
+[2026-08-28 17:57:09] Attack succeeded: Malware upload attempt on FTP
+[2026-08-28 17:57:22] Attack succeeded: DDoS on HTTP service
+[2026-08-28 17:59:51] ssh service stopped
+[2026-08-28 18:00:58] http service stopped
+[2026-08-28 18:02:16] ftp service stopped
+[2026-08-28 18:03:29] Firewall active
+[2026-08-28 18:04:41] http service started
+[2026-08-28 18:05:00] Quiz mode completed with score: 35
