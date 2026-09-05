@@ -1,0 +1,18 @@
+[2026-09-05 16:04:41] Hostname changed to CTM-VM
+[2026-09-05 16:05:55] IP address set to 192.168.1.100
+[2026-09-05 16:07:24] Attack succeeded: Penetration attempt
+[2026-09-05 16:07:32] Attack succeeded: Port scan detected
+[2026-09-05 16:07:44] Attack succeeded: Brute force login attempt
+[2026-09-05 16:07:53] Attack succeeded: Malware upload attempt on FTP
+[2026-09-05 16:08:06] Attack succeeded: DDoS on HTTP service
+[2026-09-05 16:17:34] ssh service stopped
+[2026-09-05 16:27:54] http service stopped
+[2026-09-05 16:28:35] ftp service stopped
+[2026-09-05 16:28:52] Firewall active
+[2026-09-05 16:29:38] http service started
+[2026-09-05 16:32:17] ssh service stopped
+[2026-09-05 16:32:31] http service stopped
+[2026-09-05 16:32:41] ftp service stopped
+[2026-09-05 16:32:46] Firewall active
+[2026-09-05 16:33:10] http service started
+[2026-09-05 16:33:20] Quiz mode completed with score: 35
