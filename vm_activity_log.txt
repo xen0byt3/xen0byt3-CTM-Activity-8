@@ -1,0 +1,13 @@
+[2026-11-10 16:41:59] Hostname changed to koisheshell
+[2026-11-10 16:42:23] IP address set to 192.168.1.12
+[2026-11-10 16:44:11] Attack succeeded: Penetration attempt
+[2026-11-10 16:44:23] Attack succeeded: Port scan detected
+[2026-11-10 16:44:33] Attack succeeded: Brute force login attempt
+[2026-11-10 16:44:39] Attack succeeded: Malware upload attempt on FTP
+[2026-11-10 16:44:44] Attack succeeded: DDoS on HTTP service
+[2026-11-10 16:47:51] ssh service stopped
+[2026-11-10 16:49:25] http service stopped
+[2026-11-10 16:49:54] ftp service stopped
+[2026-11-10 16:51:01] Firewall active
+[2026-11-10 16:51:33] http service started
+[2026-11-10 16:52:21] Quiz mode completed with score: 35
