@@ -1,0 +1,14 @@
+[2026-11-12 21:53:23] Hostname changed to DogPatch06
+[2026-11-12 21:53:37] IP address set to 192.168.27.27
+[2026-11-12 21:54:21] Attack succeeded: Penetration attempt
+[2026-11-12 21:54:29] Attack succeeded: Port scan detected
+[2026-11-12 21:54:35] Attack succeeded: Brute force login attempt
+[2026-11-12 21:54:40] Attack succeeded: Malware upload attempt on FTP
+[2026-11-12 21:54:44] Attack succeeded: DDoS on HTTP service
+[2026-11-12 21:55:28] ssh service stopped
+[2026-11-12 21:56:30] http service stopped
+[2026-11-12 21:56:50] ftp service stopped
+[2026-11-12 21:57:21] Firewall active
+[2026-11-12 21:57:44] http service started
+[2026-11-12 21:58:25] Firewall active
+[2026-11-12 21:58:32] Quiz mode completed with score: 35
