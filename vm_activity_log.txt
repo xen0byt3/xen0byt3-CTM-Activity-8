@@ -1,0 +1,13 @@
+[2026-11-15 17:08:50] Hostname changed to alphaxcx
+[2026-11-15 17:08:58] IP address set to 192.168.1.50
+[2026-11-15 17:09:13] Attack succeeded: Penetration attempt
+[2026-11-15 17:09:18] Attack succeeded: Port scan detected
+[2026-11-15 17:09:24] Attack succeeded: Brute force login attempt
+[2026-11-15 17:09:30] Attack succeeded: Malware upload attempt on FTP
+[2026-11-15 17:09:36] Attack succeeded: DDoS on HTTP service
+[2026-11-15 17:09:51] ssh service stopped
+[2026-11-15 17:10:09] http service stopped
+[2026-11-15 17:10:20] ftp service stopped
+[2026-11-15 17:10:32] Firewall active
+[2026-11-15 17:10:45] http service started
+[2026-11-15 17:11:14] Quiz mode completed with score: 35
