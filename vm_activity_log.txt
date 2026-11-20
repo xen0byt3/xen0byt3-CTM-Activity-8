@@ -1,0 +1,13 @@
+[2026-11-20 18:07:38] Hostname changed to sp3ctr0
+[2026-11-20 18:09:02] IP address set to 10.0.0.14
+[2026-11-20 18:12:38] Attack succeeded: Penetration attempt
+[2026-11-20 18:12:49] Attack succeeded: Port scan detected
+[2026-11-20 18:13:11] Attack succeeded: Brute force login attempt
+[2026-11-20 18:13:22] Attack succeeded: Malware upload attempt on FTP
+[2026-11-20 18:13:36] Attack succeeded: DDoS on HTTP service
+[2026-11-20 18:16:34] ssh service stopped
+[2026-11-20 18:18:59] http service stopped
+[2026-11-20 18:19:54] ftp service stopped
+[2026-11-20 18:21:05] Firewall active
+[2026-11-20 18:21:53] http service started
+[2026-11-20 18:22:52] Quiz mode completed with score: 35
