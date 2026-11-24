@@ -1,0 +1,13 @@
+[2026-11-25 01:24:04] Hostname changed to hgrub443
+[2026-11-25 01:24:21] IP address set to 27.22.10.4
+[2026-11-25 01:25:08] Attack succeeded: Penetration attempt
+[2026-11-25 01:25:13] Attack succeeded: Port scan detected
+[2026-11-25 01:25:24] Attack succeeded: Brute force login attempt
+[2026-11-25 01:25:28] Attack succeeded: Malware upload attempt on FTP
+[2026-11-25 01:25:31] Attack succeeded: DDoS on HTTP service
+[2026-11-25 01:28:11] ssh service stopped
+[2026-11-25 01:28:48] http service stopped
+[2026-11-25 01:29:49] ftp service stopped
+[2026-11-25 01:30:08] Firewall active
+[2026-11-25 01:30:30] http service started
+[2026-11-25 01:31:06] Quiz mode completed with score: 35
