@@ -1,0 +1,13 @@
+[2026-11-25 11:07:35] Hostname changed to ThreatX
+[2026-11-25 11:08:32] IP address set to 10.0.0.1
+[2026-11-25 11:10:44] Attack succeeded: Penetration attempt
+[2026-11-25 11:11:13] Attack succeeded: Port scan detected
+[2026-11-25 11:11:36] Attack succeeded: Brute force login attempt
+[2026-11-25 11:11:56] Attack succeeded: Malware upload attempt on FTP
+[2026-11-25 11:12:14] Attack succeeded: DDoS on HTTP service
+[2026-11-25 11:14:40] ssh service stopped
+[2026-11-25 11:17:50] http service stopped
+[2026-11-25 11:19:13] ftp service stopped
+[2026-11-25 11:20:50] Firewall active
+[2026-11-25 11:22:11] http service started
+[2026-11-25 11:23:08] Quiz mode completed with score: 35
